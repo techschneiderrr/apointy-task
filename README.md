@@ -30,7 +30,7 @@
 - Installation:
 
 ```bash
-git clone https://github.com/r-ush/posty.git
+git clone https://github.com/techschneiderrr/appointy-task.git
 cd posty
 go mod download
 ```
